@@ -46,7 +46,7 @@
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 1000,
     "files.exclude": {
-        "**/.*": true
+        "**/.*": true,
         "**/*.d": true,
         "**/*.o": true,
         "**/a.out": true,
